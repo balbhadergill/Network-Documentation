@@ -14,6 +14,8 @@ The home network is used for internet access, streaming, studying, and monitorin
 ---
 
 # 2. Physical Topology
+<img width="1123" height="618" alt="Screenshot 2026-04-01 131104" src="https://github.com/user-attachments/assets/3e275516-7dc9-4ed8-97cc-5bf79147c930" />
+
 
 ```
                      Internet
