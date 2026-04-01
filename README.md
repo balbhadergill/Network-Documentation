@@ -26,7 +26,7 @@ The home network is used for internet access, streaming, studying, and monitorin
                   (192.168.1.1)
             ┌───────────┼───────────┐
             │           │           │
-        Desktop       Laptop      Smart TV
+        Desktop       Laptop      Printer
         (Ethernet)     (WiFi)       (WiFi)
 
                           │
@@ -53,7 +53,7 @@ Devices in Network
 192.168.1.10   Desktop
 192.168.1.12   Laptop
 192.168.1.11   Smartphone
-192.168.1.15   Smart TV
+192.168.1.15   Printer
 192.168.1.18   Tablet
 192.168.1.13   Security Camera
 ```
@@ -70,7 +70,7 @@ All devices communicate through the router which manages DHCP, internet access, 
 | Desktop | 192.168.1.10 | Ethernet | Main workstation |
 | Laptop | 192.168.1.12 | WiFi | Study device |
 | Phone | 192.168.1.11 | WiFi | Personal smartphone |
-| Smart TV | 192.168.1.15 | WiFi | Streaming device |
+| Printer | 192.168.1.15 | WiFi | Printing and Scanning Device |
 | Tablet | 192.168.1.18 | WiFi | Household use |
 | Security Camera | 192.168.1.13 | WiFi | Garden monitoring |
 
